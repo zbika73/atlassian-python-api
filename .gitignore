@@ -123,3 +123,8 @@ venv_/
 
 Pipfile
 Pipfile.lock
+
+# Eclipse
+/.project
+/.pydevproject
+/.settings
